@@ -1,0 +1,29 @@
+.main_comp {
+    display: flex;
+    padding: 30px;
+}
+.main_image{
+    padding-right: 30px;
+    
+}
+.cover_images{
+    border-radius: 0.5em;
+}
+.google_map{
+    padding-left: 30px;
+}
+.nav_bar{
+    background-color: brown;
+    text-align: center;
+    color: antiquewhite;
+    min-height: 40px;
+    border-radius: 1em 1em 0 0;
+    padding-top: 0.75px;
+    padding-bottom: 0.75px;
+}
+.country_name, .location_name{
+    font-weight: bold;
+}
+/* .main_texts{
+    background-color: rgb(240, 239, 234);
+} */
